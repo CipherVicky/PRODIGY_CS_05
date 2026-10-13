@@ -1,3 +1,4 @@
+# Prodigy Infotech CS Internship — Task 05
 # 📡 Educational Packet Sniffer
 
 A lightweight, Python-based network packet sniffer built with **Scapy**. It captures and analyzes network traffic in real time, displaying source & destination IP addresses, transport protocols, port numbers, packet lengths, and optional payload previews.
